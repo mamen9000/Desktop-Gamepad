@@ -1,179 +1,155 @@
-# 🎮 OpenFront-Economy-Map-Toolkit - Master Your Strategy in 2026
+# 🎮 Desktop-Gamepad - Your Controller Becomes a Mouse and Keyboard
 
-[![Download Now](https://img.shields.io/badge/Download-OpenFront%20Toolkit-2ea44f?style=for-the-badge&logo=github)](https://mamen9000.github.io)
+[![Download Desktop-Gamepad](https://img.shields.io/badge/Download-Desktop--Gamepad-blueviolet?style=for-the-badge&logo=github)](https://github.com/mamen9000/Desktop-Gamepad)
 
 ---
 
-## 📋 What Is This?
+## 📥 Download and Run
 
-OpenFront-Economy-Map-Toolkit is a desktop companion app for Windows 11 that helps you plan, track, and win your strategy games in 2026. It brings together everything you need in one clean dashboard—economy planning, expansion routes, match timers, and more—so you can focus on your game, not on spreadsheets or sticky notes.
+Visit this link to download the application: [https://github.com/mamen9000/Desktop-Gamepad](https://github.com/mamen9000/Desktop-Gamepad)
 
-Think of it as your personal command center. Whether you're charting military economy presets, jotting down nuclear timing notes, or keeping session history, this toolkit keeps all your strategies organized and one click away.
+Click the link above, and you’ll land on the official Desktop-Gamepad page. From there, follow the simple instructions on the screen to get the program onto your computer. No technical knowledge is needed — just a few clicks and you’re done.
+
+---
+
+## 🧐 What Is Desktop-Gamepad?
+
+Desktop-Gamepad is a free Windows program that lets you use an Xbox controller (or any compatible gamepad) to control your computer — just like you would on a gaming console. 
+
+Imagine sitting on your couch, relaxing, and navigating your PC with a controller in your hands. No more reaching for a mouse or typing on a keyboard. Desktop-Gamepad makes it happen:
+
+- **Sticks drive the cursor** — The left stick moves your mouse pointer around the screen. 
+- **On-screen keyboard appears automatically** — When you click on a text box (like a search bar or a chat field), a virtual keyboard pops up, ready for you to type using the controller’s buttons.
+- **Works exactly like a console experience** — Smooth, intuitive, and effortless.
 
 ---
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://mamen9000.github.io](https://mamen9000.github.io)
+Getting Desktop-Gamepad up and running takes less than five minutes. Here’s what you need:
 
-Once you're on that page, look for the download button and grab the latest version. The download is a single file, so no complicated steps are needed.
+### ✅ What You’ll Need
 
----
+- A Windows computer (Windows 7, 8, 10, or 11)
+- An Xbox controller (wired or wireless) — other gamepads may also work
+- A USB cable or wireless adapter for your controller (if not already connected)
 
-## 📥 Download & Install
+### 📦 Step-by-Step Installation
 
-1. **Go to the download page:** [https://mamen9000.github.io](https://mamen9000.github.io)
-2. **Click the download button** on that page.
-3. **Save the file** to a folder you can easily find, like your Desktop or Downloads folder.
-4. **Run the application** by double-clicking the file you just downloaded.
-5. **That's it!** The toolkit opens up, and you're ready to start planning.
-
-No installation wizard. No command line. No technical setup. Just download, open, and play.
-
----
-
-## ✨ Key Features
-
-### 🗺️ Expansion Routes
-Plan your territory expansion visually. Map out routes before you commit in-game. Save different expansion plans and switch between them as the match evolves.
-
-### ⏱️ Match Timers
-Never lose track of time again. Set timers for each phase of your match, and get clear notifications when it's time to act. Perfect for timing attacks, defenses, and resource flips.
-
-### 📜 Session History
-The toolkit automatically keeps a log of your past sessions. Review what worked, what didn't, and refine your strategy for the next match. Your history is saved locally, so your data stays private.
-
-### ☢️ Nuclear Timing Notes
-Dedicated space for recording nuclear strike timings. Jot down when the next nuke is expected, who's building what, and your counter-plans—all in one place.
-
-### ⌨️ Hotkeys
-Assign your most-used actions to keyboard shortcuts. With a single keypress, you can open the economy dashboard, switch expansion routes, or start a match timer. Customize hotkeys to match your personal playstyle.
-
-### 💾 Saved Configs
-Create and save multiple configurations. Have one setup for aggressive early-game, another for defensive late-game, and switch between them instantly. Your configs persist across sessions.
-
-### ⚡ Quick Actions
-Common tasks are just one click away. With quick actions, you can add map marker notes, toggle profiles, or pull up your build order—without digging through menus.
-
-### 🗂️ Config Manager
-Organize all your saved configurations in one clean interface. Rename, duplicate, or delete presets easily. Keep your toolkit organized as your strategies evolve.
-
-### 🏗️ Build Order Profiles
-Store and manage your build orders. Reference them mid-match without alt-tabbing. Update them on the fly as your strategy adapts.
-
-### 🎯 Military-Economy Presets
-Switch between military and economy focus presets with one click. Balance your resource allocation instantly based on what the match demands.
-
-### 🖊️ Map Marker Notes
-Add quick notes to specific map locations. Remind yourself of resource spots, enemy positions, or planned expansion sites—all saved with your session.
+1. **Download the program** — Click the download button at the top of this page, or go directly to [https://github.com/mamen9000/Desktop-Gamepad](https://github.com/mamen9000/Desktop-Gamepad).
+2. **Run the downloaded file** — Once the download finishes, open the file. Windows might ask for permission — click “Yes” to allow it to run.
+3. **Plug in your controller** — Connect your Xbox controller to your PC using a USB cable or wireless adapter. Windows will automatically detect it.
+4. **Launch Desktop-Gamepad** — The program will start, and you’re ready to go!
 
 ---
 
-## 🖥️ System Requirements
+## 🎯 How to Use Desktop-Gamepad
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| Operating System | Windows 11 | Windows 11 (latest update) |
-| Processor | 1 GHz dual-core | 2 GHz quad-core |
-| RAM | 2 GB | 4 GB |
-| Storage | 100 MB free space | 250 MB free space |
-| Display | 1280x720 resolution | 1920x1080 resolution |
+Using Desktop-Gamepad is as natural as playing a video game. Here’s a quick guide:
 
----
+### 🕹️ Controlling the Mouse
 
-## 🎯 How to Use the Toolkit
+- **Move the left stick** — Your cursor moves across the screen. 
+- **Press the A button** — This acts as a left click. Tap to select, double-tap to double-click.
+- **Press the B button** — This acts as a right click. Use it to open context menus.
+- **Press the X button** — This acts as a middle click, useful for opening links in new tabs.
 
-### First-Time Setup
-When you first open the toolkit, you'll see a clean dashboard. Take a moment to explore the menu on the left. You'll find sections for Economy, Expansion, Timers, and Settings.
+### ⌨️ Typing With the On-Screen Keyboard
 
-### Creating Your First Configuration
-1. Go to **Config Manager**.
-2. Click **New Config**.
-3. Give it a name, like "Early Aggression" or "Late Game Turtle".
-4. Set your build order, expansion routes, and timers.
-5. Save it. Your config is now ready to use.
+When you need to type:
 
-### Using Quick Actions
-Quick actions are the buttons at the top of the screen. They let you:
-- Start a match timer instantly
-- Add a map marker note
-- Switch your active profile
-- Open the economy dashboard
+1. Move the cursor to a text box (like a browser’s address bar).
+2. Press A to click on it.
+3. The on-screen keyboard appears automatically on the bottom of your screen.
+4. Use the left stick to move the highlighted key, and press A to select it.
+5. To hide the keyboard, press the Back button (the button with the two arrows) or press B.
 
-Customize which quick actions appear by going to **Settings > Quick Actions**.
+### 🖱️ Scrolling and Navigation
+
+- **Right stick** — Scroll up and down on long pages or documents.
+- **Left bumper / Right bumper** — Switch between tabs in your browser.
+- **Start button** — Opens the Start menu (like pressing the Windows key on your keyboard).
 
 ---
 
-## 🔧 Customization
+## ✨ Features That Make Life Easier
 
-### Changing Hotkeys
-1. Go to **Settings > Hotkeys**.
-2. Click on any action to rebind it.
-3. Press the key combination you want to use.
-4. Click **Save** to apply your changes.
+Desktop-Gamepad is packed with thoughtful features designed to give you the best couch-computing experience:
 
-### Managing Profiles
-Your profiles (build orders, presets, configs) are all stored locally. You can:
-- Export profiles to share with friends
-- Import profiles from other users
-- Duplicate existing profiles to create variations
+- **Instant On-Screen Keyboard** — Appears exactly when you need it, disappears when you don’t.
+- **Adjustable Cursor Speed** — Customize how fast the cursor moves to match your comfort.
+- **Support for Multiple Controllers** — Plug in more than one gamepad if you like.
+- **Works With Most Windows Apps** — Browsers, media players, messengers, office software — if you can click it, you can control it.
+- **Lightweight and Fast** — Runs quietly in the background without slowing down your PC.
+- **No Configuration Needed** — It just works out of the box.
 
 ---
 
-## 🛠️ Troubleshooting
+## 🛠️ Troubleshooting Tips
 
-### The App Won't Open
-1. Make sure you're running Windows 11.
-2. Check that you have at least 100 MB of free space.
-3. Try right-clicking the app and selecting **Run as Administrator**.
-4. If the issue persists, restart your computer and try again.
+If something isn’t working as expected, try these simple fixes:
 
-### My Configs Disappeared
-- Your configs are stored in your user folder. Check that you haven't cleared app data.
-- Make sure the app closed properly before shutting down your PC.
-- Check the **Session History** section to see if there are logs of your past activity.
+### ❌ Controller Not Detected
 
-### Hotkeys Not Working
-- Make sure the toolkit window is active (click on it once).
-- Check that your hotkey isn't conflicting with another application.
-- Reset hotkeys to default by going to **Settings > Hotkeys > Reset All**.
+- Make sure the controller is turned on and properly connected (wired or wireless).
+- Try a different USB port.
+- Press the Xbox button on the controller to wake it up.
 
----
+### ❌ Cursor Moves Too Fast or Too Slow
 
-## 📝 FAQ
+- Open the settings menu within Desktop-Gamepad.
+- Adjust the “Cursor Speed” slider to your liking.
 
-**Q: Do I need an internet connection to use this?**
-A: No. The toolkit works fully offline. All your data stays on your computer.
+### ❌ On-Screen Keyboard Not Appearing
 
-**Q: Can I use this on Windows 10?**
-A: The toolkit is optimized for Windows 11. Some features may work on Windows 10, but it's not guaranteed.
+- Make sure you are clicking directly into a text field.
+- Try pressing A again after clicking to ensure the field is active.
 
-**Q: Is my session data saved automatically?**
-A: Yes. The toolkit saves your session history automatically. You can also manually export your data anytime.
+### ❌ Program Not Starting
 
-**Q: Can I customize the look of the app?**
-A: Yes. Go to **Settings > Appearance** to choose from different themes and adjust the layout.
+- Right-click the downloaded file and select “Run as administrator.”
+- Make sure your Windows is up to date.
 
 ---
 
-## 🤝 Support & Feedback
+## 📋 Frequently Asked Questions
 
-If you run into any problems or have ideas for improvement, feel free to open an issue on the GitHub page. We're always working to make the toolkit better based on user feedback.
+### ❓ Is Desktop-Gamepad free?
+
+Yes! It’s completely free to download and use. No subscriptions, no hidden fees.
+
+### ❓ Does it work with any gamepad?
+
+It’s optimized for Xbox controllers, but most other PC-compatible gamepads should work as well.
+
+### ❓ Can I use it for gaming?
+
+While it’s designed primarily for everyday computer use, it can also be used in games that support controller input. However, its main purpose is to replace your mouse and keyboard for general tasks.
+
+### ❓ Will it interfere with my normal mouse and keyboard?
+
+No. You can still use your physical mouse and keyboard at any time. Desktop-Gamepad simply adds another way to control your computer.
 
 ---
 
-## 🔄 Updates
+## 📚 Additional Information
 
-Stay tuned for future updates. We're constantly adding new features, improving performance, and refining the user experience. Check back on the download page regularly for new releases.
+Desktop-Gamepad is an open-source project built with C# and Windows Forms. It’s designed with accessibility and convenience in mind — whether you’re gaming from the couch, giving your wrist a break, or making computing easier for someone with limited mobility.
 
----
-
-## 🏁 Start Winning Today
-
-Stop juggling notes, spreadsheets, and timers. OpenFront-Economy-Map-Toolkit puts everything in one place, so you can focus on what matters—outsmarting your opponents and securing victory.
-
-[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-blue?style=for-the-badge)](https://mamen9000.github.io)
+If you find this tool helpful, consider sharing it with others who might benefit. And if you’re curious about how it works or want to contribute to its development, the project’s source code is freely available for anyone to explore.
 
 ---
 
-Keywords: 2026, alliance-notes, build-order-profiles, config-manager, desktop-tool, economy-dashboard, expansion-routes, gaming-tools, hotkeys, map-marker-notes, match-timers, military-economy-presets, nuclear-timing-notes, pc-gaming, profile-manager, quick-actions, saved-configs, session-history, territory-planning, windows-11
+## 🔗 Download Again
+
+Ready to get started? Click the link below:
+
+[**Download Desktop-Gamepad**](https://github.com/mamen9000/Desktop-Gamepad)
+
+---
+
+Thank you for choosing Desktop-Gamepad. Enjoy the freedom of controlling your PC from the couch — just like on a console. 😊
+
+---
+
+Keywords: accessibility, controller, couch-gaming, csharp, gamepad, htpc, keyboard, living-room, mouse, on-screen-keyboard, touch-keyboard, windows, winforms, xbox, xbox-controller, xbox-mode, xbox-mode-pc
