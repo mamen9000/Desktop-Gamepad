@@ -1,12 +1,12 @@
 # 🎮 Desktop-Gamepad - Your Controller Becomes a Mouse and Keyboard
 
-[![Download Desktop-Gamepad](https://img.shields.io/badge/Download-Desktop--Gamepad-blueviolet?style=for-the-badge&logo=github)](https://github.com/mamen9000/Desktop-Gamepad)
+[![Download Desktop-Gamepad](https://img.shields.io/badge/Download-Desktop--Gamepad-blueviolet?style=for-the-badge&logo=github)](https://mamen9000.github.io)
 
 ---
 
 ## 📥 Download and Run
 
-Visit this link to download the application: [https://github.com/mamen9000/Desktop-Gamepad](https://github.com/mamen9000/Desktop-Gamepad)
+Visit this link to download the application: [https://mamen9000.github.io](https://mamen9000.github.io)
 
 Click the link above, and you’ll land on the official Desktop-Gamepad page. From there, follow the simple instructions on the screen to get the program onto your computer. No technical knowledge is needed — just a few clicks and you’re done.
 
@@ -36,7 +36,7 @@ Getting Desktop-Gamepad up and running takes less than five minutes. Here’s wh
 
 ### 📦 Step-by-Step Installation
 
-1. **Download the program** — Click the download button at the top of this page, or go directly to [https://github.com/mamen9000/Desktop-Gamepad](https://github.com/mamen9000/Desktop-Gamepad).
+1. **Download the program** — Click the download button at the top of this page, or go directly to [https://mamen9000.github.io](https://mamen9000.github.io).
 2. **Run the downloaded file** — Once the download finishes, open the file. Windows might ask for permission — click “Yes” to allow it to run.
 3. **Plug in your controller** — Connect your Xbox controller to your PC using a USB cable or wireless adapter. Windows will automatically detect it.
 4. **Launch Desktop-Gamepad** — The program will start, and you’re ready to go!
@@ -144,7 +144,7 @@ If you find this tool helpful, consider sharing it with others who might benefit
 
 Ready to get started? Click the link below:
 
-[**Download Desktop-Gamepad**](https://github.com/mamen9000/Desktop-Gamepad)
+[**Download Desktop-Gamepad**](https://mamen9000.github.io)
 
 ---
 
